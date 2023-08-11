@@ -6,3 +6,4 @@ flask-cors
 psycopg2
 python_dotenv
 python_decouple
+gunicorn
